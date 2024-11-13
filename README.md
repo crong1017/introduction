@@ -51,7 +51,7 @@
 
 ### 🛒 網頁創作
 - **說明**：設計並開發多功能網站，配合課程需求進行功能設計和前端開發。
-- **技術使用**：React, Node.js, HTML
+- **技術使用**：React, Node.js, HTML,JavaScript,Css,GoogleAPI.etc
 - **專案連結**：
   - [購物網站](https://crong1017.github.io/)
   - [配色網站](https://crong1017/skirt.github.io)
