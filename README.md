@@ -1,6 +1,6 @@
 ## 📄 我的履歷
 
-<img src="https://github.com/crong1017/your-repo/raw/main/profile.jpg" alt="個人頭像" width="150" />
+<img src="cindy.jpg" alt="個人頭像" width="150" />
 
 
 ---
