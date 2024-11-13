@@ -53,11 +53,13 @@
 - **說明**：設計並開發多功能網站，配合課程需求進行功能設計和前端開發。
 - **技術使用**：React, Node.js, HTML
 - **專案連結**：
-  - [購物網站](https://github.com/crong1017/crong1017.github.io)
-  - [配色網站](https://github.com/crong1017/skirt.github.io)
+  - [購物網站](https://crong1017.github.io/)
+  - [配色網站](https://crong1017/skirt.github.io)
   - [旅遊建議](https://crong1017.github.io/Coin/)
- 
-  -<img src="螢幕擷取畫面 2024-11-14 002147.png"  width="500" /> 
+    
+  <img src="螢幕擷取畫面 2024-11-14 012501.png"  width="500" />
+  <img src="螢幕擷取畫面 2024-11-14 012549.png"  width="500" /> 
+  <img src="螢幕擷取畫面 2024-11-14 002147.png"  width="500" /> 
 
 ---
 
