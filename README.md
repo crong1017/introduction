@@ -43,6 +43,8 @@
   - [購物網站](https://github.com/crong1017/crong1017.github.io)
   - [配色網站](https://github.com/crong1017/skirt.github.io)
   - [旅遊建議](https://crong1017.github.io/Coin/)
+ 
+  -<img src="螢幕擷取畫面 2024-11-14 002147.png"  width="150" /> 
 
 ---
 
