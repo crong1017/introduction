@@ -1,6 +1,7 @@
-# 📄 我的履歷
+## 📄 我的履歷
 
-![個人頭像](cindy.jpg) <!-- 確保替換為正確的儲存庫名稱和圖片檔案名稱 -->
+<img src="https://github.com/crong1017/your-repo/raw/main/profile.jpg" alt="個人頭像" width="150" />
+
 
 ---
 
