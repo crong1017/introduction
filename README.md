@@ -24,7 +24,9 @@
 ### [網頁創作]
 - **說明**：配合課程使用了駛往也產生許多功能。
 - **技術使用**：使用的工具和技術，例如 `React`、`Node.js`、`Node.js`、`html` 等。
-- **專案連結**：[連結](https://github.com/yourusername/anotherproject)
+- **專案連結**：[購物網站](https://github.com/crong1017/crong1017.github.io)
+  **專案連結**：[配色網站](https://github.com/crong1017/skirt.github.io)
+  **專案連結**：[旅遊建議](https://crong1017.github.io/Coin/)
 
 ### [製作電子病歷]
 - **說明**：如何利用不同開發環境製作出電子病歷。
@@ -52,12 +54,12 @@
     
 - **[113Ithome天鐵人賽完賽證明]** - [電週文化事業股份有限公司（iThome）] - [2024/7/12-2024/10/15]
   - 分別完成了三次的30天挑戰賽。
-  - - **專案連結**：[連結](https://github.com/yourusername/anotherproject)
-    - **專案連結**：[連結](https://github.com/yourusername/anotherproject)
-    - **專案連結**：[連結](https://github.com/yourusername/anotherproject)
+  - - **專案連結**：[Ooo解構：開源ERP平台的進階設計與實踐](https://ithelp.ithome.com.tw/users/20168357/ironman/7755)
+    - **專案連結**：[一個網頁的誕生！教你從基礎到自行完成設計網站](ttps://ithelp.ithome.com.tw/users/20168357/ironman/7815)
+    - **專案連結**：[從0開始一初階程式語言學習者的必經之路](https://ithelp.ithome.com.tw/users/20168357/ironman/7126)
     
 ## 📬 聯絡方式
-- **Email**: your.email@example.com
+- **Email**: cindyyen1017@gmail.com
 - **GitHub**: [GitHub 個人頁面](https://github.com/yourusername)
 
 ---
