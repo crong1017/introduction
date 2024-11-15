@@ -54,7 +54,7 @@
 - **技術使用**：React, Node.js, HTML,JavaScript,Css,GoogleAPI.etc
 - **專案連結**：
   - [購物網站](https://crong1017.github.io/)
-  - [配色網站](https://crong1017/skirt.github.io)
+  - [配色網站](https://crong1017/skirt.github.io/)
   - [旅遊建議](https://crong1017.github.io/Coin/)
     
   <img src="螢幕擷取畫面 2024-11-14 012501.png"  width="500" />
